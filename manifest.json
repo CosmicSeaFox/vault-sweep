@@ -3,7 +3,7 @@
   "name": "VaultSweep",
   "version": "1.0.0",
   "minAppVersion": "1.13.0",
-  "description": "Clean and maintain your vault: find duplicate files, unused attachments, empty and orphan notes, broken links and large files.",
+  "description": "Clean and maintain your vault: find duplicate files, unused attachments, empty and orphan notes, and large files.",
   "author": "CosmicSeaFox",
   "authorUrl": "https://github.com/CosmicSeaFox",
   "fundingUrl": "https://ko-fi.com/cosmicseafox",
