@@ -1,7 +1,7 @@
 {
   "id": "vault-sweep",
   "name": "VaultSweep",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "minAppVersion": "1.13.0",
   "description": "Clean and maintain your vault: find duplicate files, unused attachments, empty and orphan notes, and large files.",
   "author": "CosmicSeaFox",
